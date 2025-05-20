@@ -1,6 +1,6 @@
 # Jarvis-Python-Project
 Jarvis - Python Voice Assistant
-Jarvis is a simple voice assistant built in Python. It can:
+Jarvis is a simple voice assistant built using Python, OpenAI's GPT-3.5, SpeechRecognition, pygame, GTTS and NewsAPI. It can:
 
 * Open websites like Google, YouTube, Facebook, LinkedIn
 * Uses OpenAI GPT for answering general queries
